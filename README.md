@@ -30,9 +30,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ## Output:
+### Name: LAVANYA M
+### Register Number:212222110021
+![image](https://github.com/LavanyaMuraleedharan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/120103862/2d251113-c63c-47f7-bb7c-9ad7e569dc79)
 
-### Name:
-### Register Number:
+
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
